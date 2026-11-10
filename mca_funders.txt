@@ -1,0 +1,10 @@
+# MCA funders and collection entities, one per line. tools/middesk.py reads this file.
+# A lawsuit where the business is the defendant and a plaintiff's name CONTAINS one of these lines
+# (case does not matter) makes mid_mca_default = strong. Add or remove lines freely.
+# Short entries match more plaintiffs than intended: "everest" also matches an unrelated "Everest Insurance".
+kalamata
+libertas
+forward financing
+kapitus
+everest
+newco

@@ -1,0 +1,17 @@
+# API keys
+.env
+
+# full provider responses saved by the tools (personal data)
+raw/
+
+# copies the tools make of a file before first writing to it
+*.orig.*
+
+# lead files
+*.csv
+*.xlsx
+*.xlsm
+
+# Python
+__pycache__/
+*.pyc
